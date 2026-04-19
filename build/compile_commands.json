@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/build",
+  "command": "C:\\Users\\14153\\Desktop\\1\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\main.cpp.obj -c C:\\Users\\14153\\Desktop\\youxichengxusheji\\SnakeGame\\SnakeGame\\main.cpp",
+  "file": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/main.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/build",
+  "command": "C:\\Users\\14153\\Desktop\\1\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\core\\GameLoop.cpp.obj -c C:\\Users\\14153\\Desktop\\youxichengxusheji\\SnakeGame\\SnakeGame\\core\\GameLoop.cpp",
+  "file": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/core/GameLoop.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/core/GameLoop.cpp.obj"
+},
+{
+  "directory": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/build",
+  "command": "C:\\Users\\14153\\Desktop\\1\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\core\\StateMachine.cpp.obj -c C:\\Users\\14153\\Desktop\\youxichengxusheji\\SnakeGame\\SnakeGame\\core\\StateMachine.cpp",
+  "file": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/core/StateMachine.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/core/StateMachine.cpp.obj"
+},
+{
+  "directory": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/build",
+  "command": "C:\\Users\\14153\\Desktop\\1\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\systems\\InputSystem.cpp.obj -c C:\\Users\\14153\\Desktop\\youxichengxusheji\\SnakeGame\\SnakeGame\\systems\\InputSystem.cpp",
+  "file": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/systems/InputSystem.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/systems/InputSystem.cpp.obj"
+},
+{
+  "directory": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/build",
+  "command": "C:\\Users\\14153\\Desktop\\1\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\systems\\RenderSystem.cpp.obj -c C:\\Users\\14153\\Desktop\\youxichengxusheji\\SnakeGame\\SnakeGame\\systems\\RenderSystem.cpp",
+  "file": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/systems/RenderSystem.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/systems/RenderSystem.cpp.obj"
+},
+{
+  "directory": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/build",
+  "command": "C:\\Users\\14153\\Desktop\\1\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\systems\\TimeSystem.cpp.obj -c C:\\Users\\14153\\Desktop\\youxichengxusheji\\SnakeGame\\SnakeGame\\systems\\TimeSystem.cpp",
+  "file": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/systems/TimeSystem.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/systems/TimeSystem.cpp.obj"
+},
+{
+  "directory": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/build",
+  "command": "C:\\Users\\14153\\Desktop\\1\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\gameplay\\Snake.cpp.obj -c C:\\Users\\14153\\Desktop\\youxichengxusheji\\SnakeGame\\SnakeGame\\gameplay\\Snake.cpp",
+  "file": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/gameplay/Snake.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/gameplay/Snake.cpp.obj"
+},
+{
+  "directory": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/build",
+  "command": "C:\\Users\\14153\\Desktop\\1\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\gameplay\\Food.cpp.obj -c C:\\Users\\14153\\Desktop\\youxichengxusheji\\SnakeGame\\SnakeGame\\gameplay\\Food.cpp",
+  "file": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/gameplay/Food.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/gameplay/Food.cpp.obj"
+},
+{
+  "directory": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/build",
+  "command": "C:\\Users\\14153\\Desktop\\1\\mingw64\\bin\\g++.exe  @CMakeFiles/SnakeGame.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\SnakeGame.dir\\persistence\\SaveSystem.cpp.obj -c C:\\Users\\14153\\Desktop\\youxichengxusheji\\SnakeGame\\SnakeGame\\persistence\\SaveSystem.cpp",
+  "file": "C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/persistence/SaveSystem.cpp",
+  "output": "CMakeFiles/SnakeGame.dir/persistence/SaveSystem.cpp.obj"
+}
+]

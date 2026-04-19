@@ -1,0 +1,36 @@
+CMakeFiles/SnakeGame.dir/systems/TimeSystem.cpp.obj: \
+ C:\Users\14153\Desktop\youxichengxusheji\SnakeGame\SnakeGame\systems\TimeSystem.cpp \
+ C:/Users/14153/Desktop/youxichengxusheji/SnakeGame/SnakeGame/systems/TimeSystem.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/chrono \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/bits/requires_hosted.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/pstl/pstl_config.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/bits/chrono.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/ratio \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/type_traits \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/bits/version.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/cstdint \
+ C:/Users/14153/Desktop/1/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdint.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/Users/14153/Desktop/1/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stddef.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/limits \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/ctime \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/time.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/sys/timeb.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/sec_api/sys/timeb_s.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/_timeval.h \
+ C:/Users/14153/Desktop/1/mingw64/x86_64-w64-mingw32/include/pthread_time.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/bits/parse_numbers.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/ext/numeric_traits.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/bits/cpp_type_traits.h \
+ C:/Users/14153/Desktop/1/mingw64/include/c++/14.2.0/ext/type_traits.h
